@@ -4,13 +4,17 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S6HYH
 Tags: google, google plus, facebook, linkedin, stumbleupon, google analytics, clicky, twitter, opengraph
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 0.0.1
+Stable tag: 0.0.6
 
 The Gunner Technology OpenGrapher plugin allows WordPress admins to configure OpenGraph info for their site and add official badges with tracking.
 
+You can see the plugin in action on [Gunner Technology's website](http://gunnertech.com/2012/02/predictive-404-wordpress-plugin-that-recovers-your-pagerank/).
+
+For any more questions, please go to Gunner Technology's post: [OpenGrapher: WordPress Plugin that Adds and Tracks Social Sharing](http://gunnertech.com/2012/02/opengrapher-wordpress-plugin-that-adds-and-tracks-social-sharing) and leave a comment.
+
 == Description ==
 
-OpenGrapher is based on (This Post)[http://yoast.com/social-buttons/] by Yoast.
+OpenGrapher is based on [This Post](http://yoast.com/social-buttons/) by Yoast.
 
 The plugin allows you to add the following official badges:
 
@@ -44,3 +48,6 @@ Additionally, it will track clicks with Google Analytics and/or Clicky. It autom
 
 = 0.0.1 =
 * Initial release
+
+= 0.0.6 =
+* Adds URL for support and comments
