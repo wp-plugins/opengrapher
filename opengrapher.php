@@ -6,7 +6,7 @@
 Plugin Name: Opengrapher
 Plugin URI: http://gunnertech.com/2012/02/opengrapher-wordpress-plugin-that-adds-and-tracks-social-sharing
 Description: This plugin will help you set default, site-wide and page-specific settings for the OpenGraph Protocol
-Version: 0.0.6
+Version: 0.0.7
 Author: Gunner Technology
 Author URI: http://gunnertech.com/
 License: GPLv2 or later
@@ -28,7 +28,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-define('OPENGRAPHER_VERSION', '0.0.6');
+define('OPENGRAPHER_VERSION', '0.0.7');
 define('OPENGRAPHER_PLUGIN_URL', plugin_dir_url( __FILE__ ));
 
 // Make sure we don't expose any info if called directly
